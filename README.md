@@ -33,7 +33,3 @@ It continuously monitors the power factor of inductive loads and automatically s
 - Unity power factor achieved under varying inductive load conditions  
 - Reduced kVA demand, improved load efficiency  
 - Demonstrated practical application of Power Electronics & Machines concepts  
-
-## More Projects
-For more Electrical Engineering & Power Electronics projects: [My GitHub Profile](https://github.com/yourprofile)
-
